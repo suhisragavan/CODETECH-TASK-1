@@ -6,8 +6,9 @@ DURATION:dec 12 2024 to jan 12 2025
 MENTOR:Sravani
 
 OVER VIEW OF THIS PROJECT
-Project:Create a Python program that acts as a basic calculator.
 
+
+Project:Create a Python program that acts as a basic calculator.
 
 Key Components:
 Functions for Arithmetic Operations:
