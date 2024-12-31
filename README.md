@@ -1,0 +1,6 @@
+NAME:Suhis Ragavan.M
+COMPANY:CODTECH IT SOLUTION
+ID:CT0806AU
+DOMAIN:Python Programming
+DURATION:dec 12 2024 to jan 12 2025
+MENTOR:Sravani
